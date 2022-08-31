@@ -10,8 +10,9 @@ class Program
          
          z = 4 * x * x + 3 * y;
          Console.WriteLine($"The value of z:{z}");
-         Console.WriteLine("X ="+x, "Y = "+y);
-         Console.WriteLine("The value of Z is:"+z);
+         Console.WriteLine("X ="+x); 
+         Console.WriteLine("Y = "+y);
+         
 
          
 
